@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/DivineWraith/Desktop/beaconapp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.m \
+  /Users/DivineWraith/Desktop/beaconapp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Users/DivineWraith/Desktop/beaconapp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/DivineWraith/Desktop/beaconapp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
